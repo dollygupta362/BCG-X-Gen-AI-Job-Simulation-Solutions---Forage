@@ -71,7 +71,7 @@ This project is divided into two core components:
 | `10-K Filings.xlsx` | Extracted financial data |
 | `Task 1.ipynb` | Financial analysis notebook |
 | `Task 2.py` | Chatbot prototype |
-| 'BCGX GenAI Ceritificate.pdf' | Completion Certificate |
+| ' BCGX GenAI Ceritificate.pdf ' | Completion Certificate |
 | `README.md` | Project documentation |
 
 ---
